@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+  <title>My feeds</title>
+</head>
+<body>
+<outline text="Feeds" title="Feeds">
+  <outline title="BleepingComputer" category="Tech Chronicle" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" />
+  <outline title="devby.io: Все о работе в IT" category="Tech Chronicle" type="rss" xmlUrl="https://morss.it/dev.by/rss" />
+  <outline title="Tomshardware" category="Tech Chronicle" type="rss" xmlUrl="https://www.tomshardware.com/feeds/all" />
+  <outline title="Wired" category="Tech Chronicle" type="rss" xmlUrl="https://www.wired.com/feed/rss" />
+  <outline title="Habr: best news of the week" category="Tech Chronicle" type="rss" xmlUrl="https://habr.com/ru/rss/news/top/weekly/?fl=ru" />
+</outline>
+</body>
+</opml>
